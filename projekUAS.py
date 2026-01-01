@@ -2,7 +2,7 @@ import os
 from datetime import datetime
 
 print("\n" + "="*60)
-print("SELAMAT DATANG DI TOKO BUKU ARIF \nJl. Kawi 2 No.53, Mojoroto, Kota Kediri\nTelp: 085707353189")
+print("SELAMAT DATANG DI TOKO BUKU ARIF \nJl. Cinta Konoha No.53, Mojoroto, Kota Kediri\nTelp: 081234567890")
 print("="*60 + "\n")
 print("Selamat bekerja dan jangan lupa senyum dan berdoa!")
 
@@ -198,8 +198,8 @@ def checkout(nama_pegawai):
 
     print("\n" + "="*60)
     print("TOKO BUKU ARIF")
-    print("Jl. Kawi 2 No.53, Mojoroto, Kota Kediri")
-    print("Telp: 085707353189")
+    print("Jl. Cinta Konoha No.53, Mojoroto, Kota Kediri")
+    print("Telp: 081234567890")
     print("="*60)
     print(f"Tanggal: {datetime.now().strftime('%d/%m/%Y %H:%M:%S')}")
     print(f"Pegawai: {nama_pegawai}")
